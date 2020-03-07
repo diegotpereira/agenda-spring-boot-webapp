@@ -16,5 +16,11 @@ public class MainController {
   public String index() {
     return "Hello World!!!";
   }
+  
+//	@RequestMapping(value="/ListaCliente", method= RequestMethod.GET)
+//	public String home(){
+//		
+//		return "ListaCliente";
+//	}
 
 }
